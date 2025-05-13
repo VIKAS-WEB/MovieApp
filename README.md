@@ -1,16 +1,40 @@
-# git_example
+# 🎬 MovieApp – Flutter TMDB Explorer
 
-A new Flutter project.
+A Flutter app to explore trending movies using the TMDB API. Built with clean UI, async APIs, and scalable codebase.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔥 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 Search movies by name
+- 🎞 Trending movies list
+- 📄 Movie detail screen
+- 🌗 Dark mode support
+- ⚡ Smooth performance & animations
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- Flutter & Dart
+- REST API (TMDB)
+- Riverpod (State Management)
+- Clean Architecture
+- HTTP Package
+- Firebase (Optional Future Integration)
+
+---
+
+## 📸 Screenshots
+
+> _Add emulator screenshots here after running app_
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/VIKAS-WEB/MovieApp.git
+cd MovieApp
+flutter pub get
+flutter run
