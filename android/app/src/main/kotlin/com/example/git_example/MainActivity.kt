@@ -1,4 +1,4 @@
-package com.example.git_example
+package com.example.flixora
 
 import io.flutter.embedding.android.FlutterActivity
 

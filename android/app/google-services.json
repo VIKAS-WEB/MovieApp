@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563796325636",
+    "project_id": "flixora-22fe6",
+    "storage_bucket": "flixora-22fe6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563796325636:android:f6ab110a4e45a0dae98c51",
+        "android_client_info": {
+          "package_name": "com.example.flixora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALRpfS7rIP70TMwbe3xafx5V4xL8m7MSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
